@@ -3,7 +3,7 @@
   <parent>
     <groupId>fi.sandmania.java.jgitflow</groupId>
     <artifactId>jgitflow-test</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
   </parent>
   <artifactId>sub-module-2</artifactId>
 </project>
